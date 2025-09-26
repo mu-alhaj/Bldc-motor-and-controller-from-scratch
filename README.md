@@ -31,7 +31,7 @@ The third phase is always floating.
 ---
 
 ### 5. Automated Switching  
-After manual testing, control is handed over to a microcontroller to handle commutation at higher speed.  
+After manual testing, control is handed over to a microcontroller to handle commutation since it is a bit faster than me.  
 
 **Video demo:**  
 <video src="https://github.com/user-attachments/assets/efec8cac-a067-41b0-9e34-fba383cbe5c5" width="400" controls></video>
