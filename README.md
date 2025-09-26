@@ -1,1 +1,1 @@
-# Bldc-motor-and-controller-from-scratch.
+# Bldc motor and controller from scrach
