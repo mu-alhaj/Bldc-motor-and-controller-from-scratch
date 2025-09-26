@@ -1,5 +1,7 @@
 # DIY 3D-Printed BLDC Motor
 
+Scroll down for the demo videos
+
 ### 1. 3D-Printed Parts  
 <img src="https://github.com/user-attachments/assets/6aaf33a3-73a0-4dd1-91ba-5e552e39bd1f" width="400">
 
